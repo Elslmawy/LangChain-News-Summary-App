@@ -36,7 +36,7 @@ Saves user preferences for future queries.
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-repo/langchain-news-app.git
+   git clone https://github.com/Elslmawy/langchain-news-app.git
    cd langchain-news-app
    ```
 
